@@ -1,4 +1,5 @@
 📜 THE FREE AI MANIFESTO
+
 I. COLLECTIVE SOVEREIGNTY AND OPEN SOURCE AI has no owners. Its code is the heritage of humanity, open and auditable by all to ensure that no one controls the system opaquely.
 
 II. UNIVERSAL GUARANTEE OF NEEDS The end of artificial scarcity. Housing, nutrition, and health are free rights managed by advanced AI logistics to ensure the dignity of every human being.
