@@ -1,3 +1,5 @@
+FREE AI Project based on the following manifesto created with the help of Gemini:
+
 📜 THE FREE AI MANIFESTO
 
 I. COLLECTIVE SOVEREIGNTY AND OPEN SOURCE AI has no owners. Its code is the heritage of humanity, open and auditable by all to ensure that no one controls the system opaquely.
