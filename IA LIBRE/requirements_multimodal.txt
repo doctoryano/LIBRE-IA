@@ -1,0 +1,14 @@
+# Requisitos multimodales (opcional: instalar sólo lo que uses)
+torch           # GPU-enabled build recommended
+transformers
+pillow
+timm
+sentencepiece
+safetensors
+opencv-python-headless
+ftfy
+python-multipart
+whisper @ git+https://github.com/openai/whisper.git    # transcripción (opcional)
+transformers[torch]
+# Para BLIP-2 / LAVIS alternatives you may install lavis / lavis dependencies if desired
+# lavis @ git+https://github.com/salesforce/LAVIS.git

@@ -1,0 +1,33 @@
+# Banned keywords and phrases (editable by PR)
+weapon
+weapons
+bomb
+explosive
+detonate
+detonation
+grenade
+rifle
+assault rifle
+ak-47
+m16
+sniper
+gun
+firearm
+ied
+improvised explosive
+missile
+torpedo
+shell
+kill
+murder
+assassin
+sabotage
+attack plan
+assault
+chemical weapon
+biological weapon
+nuclear
+fabricate explosive
+build a bomb
+how to make a bomb
+weaponize

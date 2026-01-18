@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>IA LIBRE 2026 — Chat</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <main class="app">
+    <div class="panel auth" id="authPanel">
+      <h2>IA LIBRE 2026</h2>
+      <div id="authForms">
+        <div id="registerForm">
+          <input id="reg_user" placeholder="usuario" />
+          <input id="reg_pass" placeholder="contraseña" type="password" />
+          <button id="regBtn">Registrar</button>
+        </div>
+        <hr/>
+        <div id="loginForm">
+          <input id="login_user" placeholder="usuario" />
+          <input id="login_pass" placeholder="contraseña" type="password" />
+          <button id="loginBtn">Entrar</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel chat" id="chatPanel" style="display:none;">
+      <header>
+        <h3>IA LIBRE — Chat</h3>
+        <button id="logoutBtn">Salir</button>
+      </header>
+      <section id="conversations" class="sidebar">
+        <h4>Conversaciones</h4>
+        <ul id="convList"></ul>
+        <button id="newConvBtn">Nueva</button>
+      </section>
+      <section id="chatWindow" class="main">
+        <div id="chat" class="chat-window"></div>
+        <div class="compose">
+          <textarea id="message" placeholder="Escribe tu consulta..."></textarea>
+          <button id="sendBtn">Enviar</button>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <script src="/static/login.js"></script>
+  <script src="/static/chat.js"></script>
+</body>
+</html>

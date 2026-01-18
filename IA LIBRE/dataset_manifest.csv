@@ -1,0 +1,3 @@
+id,source_url,license,license_url,collected_at,sha256,records,tokens,languages,filters_applied,contact,notes
+project_gutenberg,https://www.gutenberg.org/,Public Domain,https://www.gutenberg.org/,2026-01-17,TO_FILL,0,0,en,"pii_masking,strip_headers","maintainers@tu-dominio.example","selected Gutenberg works"
+code_search_net,https://s3.amazonaws.com/code-search-net/CodeSearchNet/v2/python.zip,Varies,https://github.com/codalab/CodeSearchNet,2026-01-17,TO_FILL,0,0,python,"repo_license_filter,pii_masking","datasets@tu-dominio.example","python subset"

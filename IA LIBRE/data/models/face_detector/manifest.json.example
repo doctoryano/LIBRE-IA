@@ -1,0 +1,7 @@
+{
+  "proto_url": "https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/face_detector/deploy.prototxt",
+  "model_url": "https://raw.githubusercontent.com/opencv/opencv_3rdparty/dnn_samples_face_detector_20170830/master/res10_300x300_ssd_iter_140000_fp16.caffemodel",
+  "proto_sha256": "PUT_PROTO_SHA256_HERE",
+  "model_sha256": "PUT_MODEL_SHA256_HERE",
+  "notes": "Download using scripts/fetch_face_detector.sh --manifest data/models/face_detector/manifest.json --verify"
+}
